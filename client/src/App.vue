@@ -39,7 +39,7 @@ body {
   background: #e8f7f0;
 }
 .container {
-  max-width: 1100px;
+  max-width: 1101px;
   margin: auto;
   overflow: auto;
   padding: 0 2rem;
